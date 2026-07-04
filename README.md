@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/dashboard-banner.svg" width="100%" alt="animated header banner"/>
-
 <h1>Mohith Kumar S</h1>
 <p><strong>Full Stack Developer | AI & Cloud Enthusiast</strong></p>
 
