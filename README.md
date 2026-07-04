@@ -36,7 +36,7 @@ I build practical software with a focus on clean engineering, product quality, a
 
 <div align="center" style="border:1px solid #30363d; border-radius:14px; padding:12px;">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="86%" alt="coder gif"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="86%" alt="coder gif"/>
 
 <div align="left">
 
