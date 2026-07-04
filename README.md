@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6C63FF,50:4F46E5,100:9333EA&text=Mohith%20Kumar%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=22"/>
+<img src="assets/dashboard-banner.svg" width="100%" alt="animated header banner"/>
 
 <h1>Mohith Kumar S</h1>
 <p><strong>Full Stack Developer | AI & Cloud Enthusiast</strong></p>

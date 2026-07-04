@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Mohith Kumar S</title>
+  <desc id="desc">A premium GitHub profile dashboard banner with title, subtitle, links, stats, and a compact code card.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff9f43"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#020617" flood-opacity="0.55"/>
+    </filter>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title { font: 700 54px 'Segoe UI', Arial, sans-serif; fill: #ffffff; letter-spacing: 0.5px; }
+      .subtitle { font: 500 24px 'Segoe UI', Arial, sans-serif; fill: rgba(255,255,255,0.92); }
+      .meta { font: 500 16px 'Segoe UI', Arial, sans-serif; fill: rgba(255,255,255,0.88); }
+      .chip { font: 700 18px 'Segoe UI', Arial, sans-serif; fill: #ffffff; letter-spacing: 1.5px; }
+      .small { font: 600 13px 'Segoe UI', Arial, sans-serif; fill: rgba(255,255,255,0.72); }
+      .code { font: 600 15px 'Consolas', 'SFMono-Regular', monospace; fill: #9ef0b2; }
+      .codeDim { font: 600 15px 'Consolas', 'SFMono-Regular', monospace; fill: #7dd3fc; }
+      .codeTitle { font: 700 14px 'Segoe UI', Arial, sans-serif; fill: rgba(255,255,255,0.9); letter-spacing: 1.2px; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="520" rx="28" fill="url(#bg)"/>
+  <path d="M0,420 C180,360 300,470 520,430 C700,398 860,350 1080,398 C1270,439 1410,505 1600,460 L1600,520 L0,520 Z" fill="#f8fafc" fill-opacity="0.14"/>
+  <path d="M0,445 C210,390 365,480 620,445 C840,414 980,370 1180,414 C1370,455 1490,500 1600,475 L1600,520 L0,520 Z" fill="#f8fafc" fill-opacity="0.10"/>
+  <circle cx="1160" cy="110" r="120" fill="url(#glow)" opacity="0.25"/>
+  <circle cx="260" cy="110" r="92" fill="url(#glow)" opacity="0.14"/>
+
+  <g filter="url(#softGlow)">
+    <circle cx="92" cy="88" r="3" fill="#fff" opacity="0.9"/>
+    <circle cx="154" cy="64" r="2.5" fill="#fff" opacity="0.75"/>
+    <circle cx="1018" cy="52" r="2.5" fill="#fff" opacity="0.85"/>
+    <circle cx="1306" cy="86" r="3" fill="#fff" opacity="0.75"/>
+    <circle cx="1416" cy="58" r="2.5" fill="#fff" opacity="0.8"/>
+    <circle cx="1448" cy="182" r="2.5" fill="#fff" opacity="0.72"/>
+  </g>
+
+  <g transform="translate(96 74)">
+    <text class="title">Mohith Kumar S</text>
+    <text class="subtitle" y="46">Full Stack Developer | AI &amp; Cloud Enthusiast</text>
+
+    <g transform="translate(0 74)">
+      <text class="meta">Chennai, India</text>
+      <circle cx="162" cy="-5" r="3" fill="#f8fafc" opacity="0.85"/>
+      <text class="meta" x="180">mohithkumar4225@gmail.com</text>
+      <circle cx="458" cy="-5" r="3" fill="#f8fafc" opacity="0.85"/>
+      <text class="meta" x="476">Always building</text>
+      <circle cx="612" cy="-5" r="3" fill="#f8fafc" opacity="0.85"/>
+      <text class="meta" x="630">100+ LeetCode problems</text>
+    </g>
+  </g>
+
+  <g transform="translate(96 182)">
+    <rect x="0" y="0" rx="18" width="132" height="38" fill="#fb7185"/>
+    <rect x="138" y="0" rx="18" width="128" height="38" fill="#0ea5e9"/>
+    <rect x="274" y="0" rx="18" width="126" height="38" fill="#f59e0b"/>
+    <rect x="408" y="0" rx="18" width="112" height="38" fill="#ef4444"/>
+    <text class="chip" x="33" y="25">PORTFOLIO</text>
+    <text class="chip" x="172" y="25">LINKEDIN</text>
+    <text class="chip" x="306" y="25">LEETCODE</text>
+    <text class="chip" x="441" y="25">EMAIL</text>
+  </g>
+
+  <g filter="url(#shadow)" transform="translate(1032 46)">
+    <rect x="0" y="0" width="406" height="176" rx="18" fill="#0b1020" fill-opacity="0.86" stroke="#8b5cf6" stroke-opacity="0.6"/>
+    <rect x="18" y="18" width="60" height="10" rx="5" fill="#8b5cf6" opacity="0.85"/>
+    <rect x="84" y="18" width="34" height="10" rx="5" fill="#22c55e" opacity="0.8"/>
+    <rect x="124" y="18" width="22" height="10" rx="5" fill="#f59e0b" opacity="0.8"/>
+    <text class="codeTitle" x="18" y="54">const focus = {</text>
+    <text class="code">  stack: "Full Stack + AI"</text>
+    <text class="code">  cloud: "AWS / OCI / Docker"</text>
+    <text class="code">  build: "Scalable products"</text>
+    <text class="codeDim">  solve: "DSA / System Design"</text>
+    <text class="code">};</text>
+    <rect x="320" y="28" width="50" height="50" rx="10" fill="#121a33" stroke="#334155"/>
+    <path d="M338 50 L353 38 L367 50 L367 58 L338 58 Z" fill="#8b5cf6" opacity="0.9"/>
+    <circle cx="345" cy="44" r="4" fill="#f8fafc" opacity="0.9"/>
+  </g>
+
+  <g transform="translate(1002 270)">
+    <rect width="132" height="46" rx="12" fill="#0b1020" fill-opacity="0.9" stroke="#475569"/>
+    <text x="18" y="29" class="small">PROFILE VIEWS</text>
+    <rect x="92" y="0" width="40" height="46" rx="12" fill="#22c55e"/>
+    <text x="104" y="29" class="chip" font-size="20">28</text>
+
+    <rect x="142" y="0" width="110" height="46" rx="12" fill="#0b1020" fill-opacity="0.9" stroke="#475569"/>
+    <text x="160" y="29" class="small">FOLLOWERS</text>
+    <rect x="224" y="0" width="28" height="46" rx="12" fill="#3b82f6"/>
+    <text x="234" y="29" class="chip" font-size="20">8</text>
+
+    <rect x="260" y="0" width="90" height="46" rx="12" fill="#0b1020" fill-opacity="0.9" stroke="#475569"/>
+    <text x="278" y="29" class="small">STARS</text>
+    <rect x="330" y="0" width="54" height="46" rx="12" fill="#f59e0b"/>
+    <text x="345" y="29" class="chip" font-size="20">118</text>
+  </g>
+</svg>
