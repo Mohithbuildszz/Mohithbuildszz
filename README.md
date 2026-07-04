@@ -43,16 +43,21 @@ I build practical software with a focus on clean engineering, product quality, a
 
 <div align="left">
 
-```yaml
-mohith:
-  role: "Full Stack Developer"
-  location: "Chennai, India"
-  focus:
-    - "MERN and modern web applications"
-    - "AI, ML, and automation"
-    - "Cloud, DevOps, and backend architecture"
-  currently_building: "Portfolio and AI-driven projects"
-  leetcode: "100+ problems solved"
+```typescript
+const mohithProfile: Developer = {
+    name: "Mohith Kumar S",
+    title: "Full Stack Developer & AI Cloud Enthusiast",
+    education: "B.Tech IT @ St. Joseph's College of Engineering",
+    location: "Chennai, Tamil Nadu, India 🇮🇳",
+    currentFocus: ["Cloud Computing", "DevOps", "Problem Solving"],
+    certifications: ["AWS Cloud Practitioner", "GitHub Foundations"],
+    problemsSolved: "100+",
+    languages: ["Java", "SQL"],
+    cloudTech: ["AWS", "Docker", "Terraform"],
+    webTech: ["React", "Node.js", "HTML", "CSS"],
+    tools: ["GitHub", "Linux", "VS Code"],
+    motto: "Building scalable solutions in the cloud ☁️"
+};
 ```
 
 </div>
