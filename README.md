@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e" width="100%" alt="animated header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Mohith%20Kumar%20S&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&amp;descAlignY=60&amp;descSize=18" width="100%" alt="animated header banner"/>
 
 <h1>Mohith Kumar S</h1>
 <p><strong>Full Stack Developer | AI & Cloud Enthusiast</strong></p>
