@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=170&amp;section=header&amp;text=Mohith%20Kumar%20S&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&amp;descAlignY=60&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=160&amp;section=header&amp;text=Mohith%20Kumar%20S&amp;fontSize=46&amp;fontColor=1f2937&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&amp;descAlignY=60&amp;descSize=18" width="100%"/>
 
 <p>
   <a href="https://mohithbuildszz.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white"/></a>
@@ -20,7 +20,7 @@
 
 <table>
 <tr>
-<td valign="top" width="58%">
+<td valign="top" width="60%">
 
 ## About Me
 
@@ -32,7 +32,7 @@ I build practical software with a focus on clean engineering, product quality, a
 - DSA and competitive programming with a product mindset
 
 </td>
-<td valign="top" width="42%">
+<td valign="top" width="40%">
 
 <div align="center" style="border:1px solid #30363d; border-radius:14px; padding:12px;">
 
