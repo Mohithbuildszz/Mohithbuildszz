@@ -26,6 +26,16 @@
 
 I build practical software with a focus on clean engineering, product quality, and scalable systems.
 
+- Full-stack development with a MERN and modern web stack
+- AI, machine learning, and automation-focused problem solving
+- System design, cloud foundations, and backend architecture
+- DSA and competitive programming with a product mindset
+
+</td>
+<td valign="top" width="42%">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="coder gif"/>
+
 ```yaml
 mohith:
   role: "Full Stack Developer"
@@ -37,16 +47,6 @@ mohith:
   currently_building: "Portfolio and AI-driven projects"
   leetcode: "100+ problems solved"
 ```
-
-- Full-stack development with a MERN and modern web stack
-- AI, machine learning, and automation-focused problem solving
-- System design, cloud foundations, and backend architecture
-- DSA and competitive programming with a product mindset
-
-</td>
-<td valign="top" width="42%">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" alt="animated hello"/>
 
 </td>
 </tr>
@@ -121,6 +121,36 @@ mohith:
 | DSA progress | 100+ problems solved |
 | Core focus | Full stack, AI, cloud, automation |
 
+## Certifications & Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<strong>AWS Certified Cloud Practitioner</strong><br/>
+Cloud fundamentals, architecture, and security
+</td>
+<td align="center" width="33%">
+<strong>Oracle Cloud Infrastructure Foundations Associate</strong><br/>
+Core OCI services and cloud concepts
+</td>
+<td align="center" width="33%">
+<strong>NPTEL & AWS Educate</strong><br/>
+Cloud Computing, DBMS, and AWS learning tracks
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/OCI-Foundations_Associate-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Cloud_Computing_Elite-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NPTEL-DBMS-3776AB?style=for-the-badge"/>
+
+</div>
+
 ## Contribution Graph
 
 <div align="center">
@@ -151,6 +181,29 @@ mohith:
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Mohithbuildszz&amp;theme=onestar&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;row=1&amp;column=6"/>
+
+</div>
+
+## Social
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/mohith-kumar-446349337"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+</td>
+<td align="center">
+<a href="mailto:mohithkumar4225@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+</td>
+<td align="center">
+<a href="https://mohithbuildszz.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white"/></a>
+</td>
+<td align="center">
+<a href="https://leetcode.com/u/Mohith_118/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"/></a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -199,10 +252,6 @@ mohith:
 
 I’m open to collaboration, technical conversations, and interesting product ideas.
 
-- LinkedIn: [mohith-kumar-446349337](https://www.linkedin.com/in/mohith-kumar-446349337)
-- Email: [mohithkumar4225@gmail.com](mailto:mohithkumar4225@gmail.com)
-- Portfolio: [mohithbuildszz.github.io/portfolio](https://mohithbuildszz.github.io/portfolio/)
-
 <p align="center">If you find my work useful, feel free to star the repositories you like.</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=92&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=92&amp;section=footer&amp;animation=twinkling" width="100%"/>
