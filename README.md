@@ -11,6 +11,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=Mohithbuildszz&amp;style=for-the-badge&amp;color=brightgreen" alt="profile views"/>
 
+<p>
+  <img src="https://img.shields.io/github/followers/Mohithbuildszz?style=for-the-badge&amp;color=0A66C2&amp;label=Followers"/>
+  <img src="https://img.shields.io/github/stars/Mohithbuildszz?style=for-the-badge&amp;color=F59E0B&amp;label=Stars"/>
+</p>
+
 </div>
 
 <table>
@@ -20,6 +25,18 @@
 ## About Me
 
 I build practical software with a focus on clean engineering, product quality, and scalable systems.
+
+```yaml
+mohith:
+  role: "Full Stack Developer"
+  location: "Chennai, India"
+  focus:
+    - "MERN and modern web applications"
+    - "AI, ML, and automation"
+    - "Cloud, DevOps, and backend architecture"
+  currently_building: "Portfolio and AI-driven projects"
+  leetcode: "100+ problems solved"
+```
 
 - Full-stack development with a MERN and modern web stack
 - AI, machine learning, and automation-focused problem solving
@@ -101,8 +118,20 @@ I build practical software with a focus on clean engineering, product quality, a
 |---|---|
 | Projects showcased | 4 |
 | Internships | Facilio, Zoho |
-| DSA progress | 50+ problems solved |
+| DSA progress | 100+ problems solved |
 | Core focus | Full stack, AI, cloud, automation |
+
+## Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohithbuildszz&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0d1117&amp;color=8a63f5&amp;line=8a63f5&amp;point=ffffff"/>
+
+<br/><br/>
+
+<img width="95%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+
+</div>
 
 ## GitHub Stats
 
@@ -113,7 +142,7 @@ I build practical software with a focus on clean engineering, product quality, a
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohithbuildszz&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0d1117&amp;color=8a63f5&amp;line=8a63f5&amp;point=ffffff"/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithbuildszz&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8a63f5&amp;text_color=c9d1d9"/>
 
 </div>
 
@@ -162,7 +191,7 @@ I build practical software with a focus on clean engineering, product quality, a
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LeetCode_Problems_Solved-50+-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode_Problems_Solved-100%2B-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"/>
 
 </div>
 
