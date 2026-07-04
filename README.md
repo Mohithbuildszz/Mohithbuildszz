@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=160&amp;section=header&amp;text=Mohith%20Kumar%20S&amp;fontSize=46&amp;fontColor=1f2937&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&amp;descAlignY=60&amp;descSize=18" width="100%"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e" width="100%" alt="animated header banner"/>
+
+<h1>Mohith Kumar S</h1>
+<p><strong>Full Stack Developer | AI & Cloud Enthusiast</strong></p>
 
 <p>
   <a href="https://mohithbuildszz.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white"/></a>
