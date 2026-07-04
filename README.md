@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=150&amp;section=header&amp;text=Mohith%20Kumar%20S&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&amp;descAlignY=58&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=170&amp;section=header&amp;text=Mohith%20Kumar%20S&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&amp;descAlignY=60&amp;descSize=18" width="100%"/>
 
 <p>
   <a href="https://mohithbuildszz.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white"/></a>
@@ -34,7 +34,11 @@ I build practical software with a focus on clean engineering, product quality, a
 </td>
 <td valign="top" width="42%">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="coder gif"/>
+<div align="center" style="border:1px solid #30363d; border-radius:14px; padding:12px;">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="86%" alt="coder gif"/>
+
+<div align="left">
 
 ```yaml
 mohith:
@@ -47,6 +51,10 @@ mohith:
   currently_building: "Portfolio and AI-driven projects"
   leetcode: "100+ problems solved"
 ```
+
+</div>
+
+</div>
 
 </td>
 </tr>
@@ -140,6 +148,20 @@ Core OCI services and cloud concepts
 Cloud Computing, DBMS, and AWS learning tracks
 </td>
 </tr>
+<tr>
+<td align="center" width="33%">
+<strong>LeetCode</strong><br/>
+100+ problems solved
+</td>
+<td align="center" width="33%">
+<strong>Projects</strong><br/>
+Production-oriented full stack and AI builds
+</td>
+<td align="center" width="33%">
+<strong>Internships</strong><br/>
+Facilio and Zoho experience
+</td>
+</tr>
 </table>
 
 <br/>
@@ -148,6 +170,7 @@ Cloud Computing, DBMS, and AWS learning tracks
 <img src="https://img.shields.io/badge/OCI-Foundations_Associate-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/NPTEL-Cloud_Computing_Elite-3776AB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NPTEL-DBMS-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-100%2B_Problems-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"/>
 
 </div>
 
@@ -205,6 +228,10 @@ Cloud Computing, DBMS, and AWS learning tracks
 </tr>
 </table>
 
+<br/>
+
+<sub>Open to collaborations, internships, and interesting product ideas.</sub>
+
 </div>
 
 ## Tech Stack
@@ -254,4 +281,4 @@ I’m open to collaboration, technical conversations, and interesting product id
 
 <p align="center">If you find my work useful, feel free to star the repositories you like.</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=92&amp;section=footer&amp;animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
