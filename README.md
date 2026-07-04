@@ -1,73 +1,76 @@
-# Mohith Kumar S
+<div align="center">
 
-**Full Stack Developer | AI & Cloud Enthusiast**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Mohith%20Kumar%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+
+<p>
+  <a href="https://www.linkedin.com/in/mohith-kumar-446349337"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mohithkumar4225@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://mohithbuildszz.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Mohith_118/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+</p>
+
+</div>
 
 I build practical software with a focus on clean engineering, product quality, and scalable systems.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohith-kumar-446349337">LinkedIn</a> •
-  <a href="mailto:mohithkumar4225@gmail.com">Email</a> •
-  <a href="https://mohithbuildszz.github.io/portfolio/">Portfolio</a> •
-  <a href="https://leetcode.com/u/Mohith_118/">LeetCode</a>
-</p>
-
-## About Me
+## Snapshot
 
 - B.Tech Information Technology student from Chennai, India
 - Full Stack Developer building production-ready applications
 - Interested in AI, cloud, DevOps, system design, and automation testing
-- Enjoy solving DSA problems and working on polished user experiences
+- Enjoys DSA and polished user experiences
 
-## What I’m Building
+## Work Showcase
 
-- Scalable full stack applications
-- AI-assisted and automation-friendly workflows
-- Backend systems with clear architecture
-- Projects that are easy to understand, maintain, and extend
-
-## Tech Stack
-
-### Languages
-Java, Python, JavaScript, TypeScript, SQL
-
-### Frontend
-React, Next.js, HTML, CSS, Tailwind CSS
-
-### Backend
-Node.js, Express, FastAPI, Django
-
-### Databases
-PostgreSQL, MySQL, MongoDB
-
-### Cloud & DevOps
-AWS, Oracle Cloud Infrastructure, Docker, Git, Linux
-
-### Tools
-VS Code, Postman, Android Studio, Selenium, Appium, Maven
-
-## Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Skill Sage
-An AI-powered career mentor that analyzes skills and goals to generate personalized career roadmaps.
+AI-powered career mentor that turns skills and goals into personalized roadmaps.
 
 React • Node.js • TypeScript • PostgreSQL • Gemini API
 
+</td>
+<td width="50%" valign="top">
+
 ### Predictive Maintenance AI
-A machine learning pipeline that predicts equipment failures using historical sensor data and gradient boosting.
+Machine learning pipeline for predicting equipment failures from sensor data.
 
 Python • XGBoost • Flask • Machine Learning
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### Portfolio Website
-A clean portfolio site built to showcase projects, experience, and skills with a modern UI.
+Modern portfolio for projects, experience, and professional highlights.
 
 React • Tailwind CSS • Framer Motion
 
 [Live Demo](https://mohithbuildszz.github.io/portfolio/)
 
+</td>
+<td width="50%" valign="top">
+
 ### Automation Testing Framework
-An end-to-end QA automation framework for mobile and web testing.
+End-to-end QA framework for mobile and web regression testing.
 
 Java • Appium • TestNG • Selenium
+
+</td>
+</tr>
+</table>
+
+## Tech Stack
+
+- Languages: Java, Python, JavaScript, TypeScript, SQL
+- Frontend: React, Next.js, HTML, CSS, Tailwind CSS
+- Backend: Node.js, Express, FastAPI, Django
+- Databases: PostgreSQL, MySQL, MongoDB
+- Cloud & DevOps: AWS, Oracle Cloud Infrastructure, Docker, Git, Linux
+- Tools: VS Code, Postman, Android Studio, Selenium, Appium, Maven
 
 ## Experience
 
@@ -97,6 +100,6 @@ I’m open to collaboration, technical conversations, and interesting product id
 - Email: [mohithkumar4225@gmail.com](mailto:mohithkumar4225@gmail.com)
 - Portfolio: [mohithbuildszz.github.io/portfolio](https://mohithbuildszz.github.io/portfolio/)
 
-<p align="center">
-  If you find my work useful, feel free to star the repositories you like.
-</p>
+<p align="center">If you find my work useful, feel free to star the repositories you like.</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
