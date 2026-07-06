@@ -203,14 +203,6 @@ Facilio and Zoho experience
 
 </div>
 
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mohithbuildszz&amp;theme=onestar&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;row=1&amp;column=6"/>
-
-</div>
-
 ## Social
 
 <div align="center">
