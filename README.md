@@ -23,12 +23,10 @@
 <tr>
 <td valign="top" width="60%">
 
-## About Me
 
-I build practical software with a focus on clean engineering, product quality, and scalable systems.
+##I build practical software with a focus on clean engineering, product quality, and scalable systems.
 
 - Full-stack development with a MERN and modern web stack
-- AI, machine learning, and automation-focused problem solving
 - System design, cloud foundations, and backend architecture
 - DSA and competitive programming with a product mindset
 
