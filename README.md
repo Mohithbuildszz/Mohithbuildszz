@@ -24,7 +24,7 @@
 <td valign="top" width="60%">
 
 
-##I build practical software with a focus on clean engineering, product quality, and scalable systems.
+## I build practical software with a focus on clean engineering, product quality, and scalable systems.
 
 - Full-stack development with a MERN and modern web stack
 - System design, cloud foundations, and backend architecture
